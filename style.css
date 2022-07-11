@@ -1,0 +1,23 @@
+.outerdiv{
+    background: #81d4fa;
+    width:800px;
+    height: 600px;
+    margin: 40px auto;
+}
+.innerdiv{
+    width:600px;
+    height: 500px;
+    border: 2px solid black;
+    margin: -590px auto;
+}
+.innerdiv h4{
+    text-align: center;
+    color: blue;
+}
+.innerdiv button{
+    margin:40px;
+    margin-left: 260px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 25px/17px;
+}
